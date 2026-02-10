@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url('https://d2clawv67efefq.cloudfront.net/ccbp-static-website/orange-color-bg.png');
+    background-size: cover;
+    height: 100vh;
+    margin-top: 10px;
+    font-family: "Roboto";
+}
+
+.carosal-size-edit {
+    padding: 30px;
+}
+
+.edit-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.edit-button {
+    border-radius: 10px;
+    color: #ff8348;
+    font-family: "Roboto";
+    text-align: center;
+    height: 40px;
+    margin-left: 30px;
+    width: 120px;
+}
+
+.edit-para {
+    font-size: 10px;
+    color: white;
+}
+
+.edit-heading1 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+}
+
+.backgroud-edit {
+    background-color: #ff8348;
+}
